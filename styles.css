@@ -60,3 +60,26 @@ div.nav-container {
     background-color: #007bff;
     color: white;
 }
+
+
+.pricing-container {
+    max-width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.pricing-container h1 {
+    font-size: 56px;
+    font-weight: 300;
+    line-height: 67.2px;
+    margin-bottom: 8px;
+}
+
+.pricing-container p {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-bottom: 16px;
+}
