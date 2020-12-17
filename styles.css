@@ -87,7 +87,6 @@ div.nav-container {
 
 .card {
     display: flex;
-    position: relative;
     flex-direction: column;
     border: 1px solid rgba(0, 0, 0, .125);
     border-radius: 4px;
@@ -95,6 +94,20 @@ div.nav-container {
     margin: 0px 24px 15px 15px;
     width: 290px;
     height: 327px;
-    line-height: 24px;
     text-align: center;
+}
+
+
+.card-head{
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    height: 53px;
+    background-color: rgba(0,0,0,.03);
+    margin-bottom: 0;
+    padding: 12px 20px;
+}
+
+.card-head h4 {
+    display: inline;
+    font-size: 24px;
+    font-weight: 400; 
 }
