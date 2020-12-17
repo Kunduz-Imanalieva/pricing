@@ -17,3 +17,25 @@ div.nav-container {
     align-items: center;
     
 }
+
+
+.nav-container h5 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-inline-end: 161.312px;
+}
+
+.top-nav {
+    margin-right: 16px;
+}
+
+.top-nav a {
+    display: inline;
+    text-decoration: none;
+    padding: 8px 8px;
+    color: black;
+}
+
+.top-nav a:hover {
+    text-decoration: underline;
+}
