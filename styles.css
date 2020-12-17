@@ -83,3 +83,18 @@ div.nav-container {
     line-height: 30px;
     margin-bottom: 16px;
 }
+
+
+.card {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 4px;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    margin: 0px 24px 15px 15px;
+    width: 290px;
+    height: 327px;
+    line-height: 24px;
+    text-align: center;
+}
