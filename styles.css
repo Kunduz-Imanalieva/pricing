@@ -244,3 +244,8 @@ div.nav-container {
     text-decoration: none;
     color: rgb(108, 117, 125);
 }
+
+
+.column li a:hover {
+    text-decoration: underline;
+}
