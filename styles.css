@@ -192,4 +192,18 @@ div.nav-container {
 .first-column {
     padding-left: 15px;
     padding-right: 15px;
+    width: 240px;
+    height: 192px;
+}
+
+.first-column img {
+    margin-bottom: 8px;
+    display: inline;
+}
+
+.first-column small {
+    margin-bottom: 16px;
+    text-align: left;
+    width: 210px;
+    display: block;
 }
