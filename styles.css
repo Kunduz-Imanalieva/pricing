@@ -221,3 +221,18 @@ div.nav-container {
     width: 210px;
     text-align: left;
 }
+
+
+.column ul {
+    list-style-type: none;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    text-align: left;
+    padding-left: 0px;
+}
+
+
+.column li a {
+    text-decoration: none;
+    color: rgb(108, 117, 125);
+}
